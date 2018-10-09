@@ -1,0 +1,67 @@
+b,name,testament,g,genre,chapters,verses,words_kjv
+1,Genesis,OT,1,Law,50,1533,38265
+2,Exodus,OT,1,Law,40,1213,32684
+3,Leviticus,OT,1,Law,27,859,24543
+4,Numbers,OT,1,Law,36,1288,32895
+5,Deuteronomy,OT,1,Law,34,959,28352
+6,Joshua,OT,2,History,24,658,18852
+7,Judges,OT,2,History,21,618,18966
+8,Ruth,OT,2,History,4,85,2574
+9,1 Samuel,OT,2,History,31,810,25047
+10,2 Samuel,OT,2,History,24,695,20599
+11,1 Kings,OT,2,History,22,816,24512
+12,2 Kings,OT,2,History,25,719,23521
+13,1 Chronicles,OT,2,History,29,942,20365
+14,2 Chronicles,OT,2,History,36,822,26069
+15,Ezra,OT,2,History,10,280,7440
+16,Nehemiah,OT,2,History,13,406,10480
+17,Esther,OT,2,History,10,167,5630
+18,Job,OT,3,Wisdom,42,1070,18098
+19,Psalms,OT,3,Wisdom,150,2461,42684
+20,Proverbs,OT,3,Wisdom,31,915,15038
+21,Ecclesiastes,OT,3,Wisdom,12,222,5580
+22,Song of Solomon,OT,3,Wisdom,8,117,2658
+23,Isaiah,OT,4,Prophets,66,1292,37039
+24,Jeremiah,OT,4,Prophets,52,1364,42654
+25,Lamentations,OT,4,Prophets,5,154,3411
+26,Ezekiel,OT,4,Prophets,48,1273,39401
+27,Daniel,OT,4,Prophets,12,357,11603
+28,Hosea,OT,4,Prophets,14,197,5174
+29,Joel,OT,4,Prophets,3,73,2033
+30,Amos,OT,4,Prophets,9,146,4216
+31,Obadiah,OT,4,Prophets,1,21,669
+32,Jonah,OT,4,Prophets,4,48,1320
+33,Micah,OT,4,Prophets,7,105,3152
+34,Nahum,OT,4,Prophets,3,47,1284
+35,Habakkuk,OT,4,Prophets,3,56,1475
+36,Zephaniah,OT,4,Prophets,3,53,1616
+37,Haggai,OT,4,Prophets,2,38,1130
+38,Zechariah,OT,4,Prophets,14,211,6443
+39,Malachi,OT,4,Prophets,4,55,1781
+40,Matthew,NT,5,Gospels,28,1071,23684
+41,Mark,NT,5,Gospels,16,678,15166
+42,Luke,NT,5,Gospels,24,1151,25939
+43,John,NT,5,Gospels,21,879,19094
+44,Acts,NT,6,Acts,28,1007,24246
+45,Romans,NT,7,Epistles,16,433,9422
+46,1 Corinthians,NT,7,Epistles,16,437,9462
+47,2 Corinthians,NT,7,Epistles,13,257,6065
+48,Galatians,NT,7,Epistles,6,149,3084
+49,Ephesians,NT,7,Epistles,6,155,3022
+50,Philippians,NT,7,Epistles,4,104,2183
+51,Colossians,NT,7,Epistles,4,95,1979
+52,1 Thessalonians,NT,7,Epistles,5,89,1837
+53,2 Thessalonians,NT,7,Epistles,3,47,1022
+54,1 Timothy,NT,7,Epistles,6,113,2244
+55,2 Timothy,NT,7,Epistles,4,83,1666
+56,Titus,NT,7,Epistles,3,46,896
+57,Philemon,NT,7,Epistles,1,25,430
+58,Hebrews,NT,7,Epistles,13,303,6897
+59,James,NT,7,Epistles,5,108,2304
+60,1 Peter,NT,7,Epistles,5,105,2475
+61,2 Peter,NT,7,Epistles,3,61,1553
+62,1 John,NT,7,Epistles,5,105,2516
+63,2 John,NT,7,Epistles,1,13,298
+64,3 John,NT,7,Epistles,1,15,295
+65,Jude,NT,7,Epistles,1,25,608
+66,Revelation,NT,8,Apocalyptic,22,404,11995
